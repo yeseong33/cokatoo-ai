@@ -1,0 +1,27 @@
+# Python 기본
+*.pyc
+*.pyo
+__pycache__/
+
+# 환경설정 파일
+.env
+*.env
+instance/
+
+# 가상 환경 디렉토리
+myenv/
+.env/
+tmp_model/
+
+# IDE 및 편집기 설정
+.idea/
+.vscode/
+
+# Flask 관련 로그 및 실행 파일
+*.log
+*.pid
+
+# 데이터베이스 파일
+*.sqlite3
+*.db
+*.bak
