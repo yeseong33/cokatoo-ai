@@ -12,6 +12,7 @@ instance/
 myenv/
 .env/
 tmp_model/
+userSound/
 
 # IDE 및 편집기 설정
 .idea/
